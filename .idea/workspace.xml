@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="daddbf50-012b-4351-8aed-2036022ed006" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/nate/cardatabasev2/BusinessLogicLayer/CarController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/nate/cardatabasev2/BusinessLogicLayer/CarService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/nate/cardatabasev2/BusinessLogicLayer/OwnerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/nate/cardatabasev2/BusinessLogicLayer/OwnerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/nate/cardatabasev2/Cardatabasev2Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/nate/cardatabasev2/DataAccessLayer/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/nate/cardatabasev2/DataAccessLayer/CarRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/nate/cardatabasev2/DataAccessLayer/Owner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/nate/cardatabasev2/DataAccessLayer/OwnerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/nate/cardatabasev2/PresentationLayer/dto/car/CarRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/nate/cardatabasev2/PresentationLayer/dto/car/CarResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/nate/cardatabasev2/PresentationLayer/dto/car/OwnerSummary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/nate/cardatabasev2/PresentationLayer/dto/owner/OwnerRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/nate/cardatabasev2/PresentationLayer/dto/owner/OwnerResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/nate/cardatabasev2/PresentationLayer/mapper/CarMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/nate/cardatabasev2/PresentationLayer/mapper/OwnerMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/nate/cardatabasev2/utilities/CarNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/nate/cardatabasev2/utilities/DuplicateResourceException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/nate/cardatabasev2/utilities/GlobalExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/nate/cardatabasev2/utilities/InvalidCarDataException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/nate/cardatabasev2/utilities/OwnerHasCarsException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/nate/cardatabasev2/utilities/OwnerNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-h2.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-postgre.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/nate/cardatabasev2/Cardatabasev2ApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="355BzQmRplrlxVb9FlbMTeDQzjV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-IU-252.23892.409" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="daddbf50-012b-4351-8aed-2036022ed006" name="Changes" comment="" />
+      <created>1762390316083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762390316083</updated>
+      <workItem from="1762390318648" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
