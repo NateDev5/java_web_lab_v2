@@ -1,13 +1,9 @@
-import './App.css'
-import CarsPage from './pages/CarsPage'
-
-function App() {
+import AppLayout from "./app/AppLayout";
+import RoutesView from "./app/routes";
+export default function App() {
   return (
-    <main style={{padding: 20}}>
-      <h1>Car Database Client</h1>
-      <CarsPage />
-    </main>
-  )
+    <AppLayout>
+      <RoutesView />
+    </AppLayout>
+  );
 }
-
-export default App
